@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Annas
+A Cyber Security Student.
+# ![Linux](https://img.shields.io/badge/Linux-User-blue) ![Python](https://img.shields.io/badge/Python-Learning-green)
 
-<!--
-**ZeroDayDreams/ZeroDayDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=sudo+rm+-rf+/+confidence)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## Interests
+- Cybersecurity
+- Linux
+- Android Modding & Rooting
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- C++
+- Web Security
+- Reverse Engineering
+
+## Tools I Use
+- Linux
+- Git
+- VS Code
+- ADB/Fastboot
+
+---
+"Works on my machine."
